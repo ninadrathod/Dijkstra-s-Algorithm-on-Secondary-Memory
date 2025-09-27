@@ -1,1 +1,1 @@
-# Dijkstra-s-Algrorithm-on-Secondary-Memory
+# Dijkstra-s-Algorithm-on-Secondary-Memory
